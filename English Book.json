@@ -1,5 +1,5 @@
 {
-  "title": "English Books",
+  "title": "English Book",
   "description": "<manga description>",
   "artist": "Class VII",
   "author": "Sudarsan",
@@ -11,7 +11,7 @@
       "groups": {
         "Sudarsan": "/proxy/api/imgur/chapter/XwDBaWt/"
       },
-      "last_updated": "1616368746"
+      "last_updated": ""
     },
       "1": {
       "title": "Three Questions",
@@ -20,7 +20,78 @@
         "Sudarsan": "/proxy/api/imgur/chapter/SSERvqx/"
       },
       "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "A Gift Of Chappals",
+      "volume": "1",
+      "groups": {
+        "Sudarsan": "/proxy/api/imgur/chapter/EWyfVI3/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Gopal And The Hila Fish",
+      "volume": "1",
+      "groups": {
+        "Sudarsan": "/proxy/api/imgur/chapter/eRoJ0HN/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "The Ashes That Made Trees Bloom",
+      "volume": "1",
+      "groups": {
+        "Sudarsan": "/proxy/api/imgur/chapter/5sirCle/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "Quality",
+      "volume": "1",
+      "groups": {
+        "Sudarsan": "/proxy/api/imgur/chapter/UaxCEcA/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "Expert Detectives",
+      "volume": "1",
+      "groups": {
+        "Sudarsan": "/proxy/api/imgur/chapter/5PPI8Yp/"
+      },
+      "last_updated": "1616368746"
+    },
+    "7": {
+      "title": "The Invention Of Vita - Wink",
+      "volume": "1",
+      "groups": {
+        "Sudarsan": "/proxy/api/imgur/chapter/QfaxFbx/"
+      },
+      "last_updated": "1616368746"
+    },
+    "8": {
+      "title": "Fire : Friend And Foe",
+      "volume": "1",
+      "groups": {
+        "Sudarsan": "/proxy/api/imgur/chapter/3uk7CuB/"
+      },
+      "last_updated": "1616368746"
+    },
+    "9": {
+      "title": "A Bicycle In Good Repair",
+      "volume": "1",
+      "groups": {
+        "Sudarsan": "/proxy/api/imgur/chapter/1zfXSJg/"
+      },
+      "last_updated": "1616368746"
+    },
+    "10": {
+      "title": "The Story Of Cricket",
+      "volume": "1",
+      "groups": {
+        "Sudarsan": "/proxy/api/imgur/chapter/NCTSMQQ/"
+      },
+      "last_updated": "1616368746"
     }
-
   }
 }
