@@ -4,5 +4,14 @@
   "artist": "Class VII",
   "author": "Sudarsan",
   "cover": "https://imgur.com/aZES6Rc",
-  "chapters": {}
+  "chapters": {
+    "Lesson 00 - Contents": {
+      "title": "Lesson 00 - Contents",
+      "volume": "0",
+      "last_updated": "1630727708",
+      "groups": {
+        "Class 7 - Sudarsan": "/proxy/api/imgur/chapter/XwDBaWt/"
+      }
+    }
+  }
 }
