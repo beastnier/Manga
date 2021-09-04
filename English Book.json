@@ -1,17 +1,17 @@
 {
-  "title": "English Book",
-  "description": "Class 7 English book . ",
+  "title": "English Books",
+  "description": "<manga description>",
   "artist": "Class VII",
   "author": "Sudarsan",
-  "cover": "https://imgur.com/aZES6Rc",
+  "cover": "https://i.imgur.com/aZES6Rc.jpg",
   "chapters": {
-    "Lesson 00 - Contents": {
+    "0": {
       "title": "Lesson 00 - Contents",
-      "volume": "0",
-      "last_updated": "1630727708",
+      "volume": "1",
       "groups": {
-        "Class 7 - Sudarsan": "/proxy/api/imgur/chapter/XwDBaWt/"
-      }
+        "Sudarsan": "/proxy/api/imgur/chapter/XwDBaWt/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
