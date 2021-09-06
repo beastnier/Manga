@@ -1,19 +1,21 @@
 {
-  "title": "86",
-  "description": "A War Without Casualties:\n\nThe Republic of San Magnolia has long been under attack from the neighboring Giadian Empire's army of unmanned drones known as the Legion. After years of painstaking research, the Republic finally developed autonomous drones of their own, turning the one-sided struggle into a war without casualties-or at least, that's what the government claims.\n\nIn truth, there is no such thing as a bloodless war. Beyond the fortified walls protecting the eighty-five Republic territories lies the \"nonexistent\" Eighty-Sixth Sector. The young men and women of this forsaken land are branded the Eighty-Six and, stripped of their humanity, pilot the \"unmanned\" weapons into battle...",
-  "artist": "Motoki Yoshihara",
-  "author": " Asato Asato",
-  "cover": "https://official-ongoing-1.ivalice.us/manga/86-EIGHTYSIX/0001-001.png",
-  "chapters": {
-    "Volume 1": {
-      "title": "Volume 1",
-      "volume": "1",
-      "last_updated": "1630689797",
-      "groups": {
-        "Sudarsan": [
-          "https://drive.google.com/uc?export=view&id=1-MLIJ3v9DzRlbqwuPYUu7NG_OY3C_K08"
-        ]
-      }
+    "title": "86",
+    "description": "A War Without Casualties:
+
+    The Republic of San Magnolia has long been under attack from the neighboring Giadian Empire's army of unmanned drones known as the Legion. After years of painstaking research, the Republic finally developed autonomous drones of their own, turning the one-sided struggle into a war without casualties-or at least, that's what the government claims.
+    
+    In truth, there is no such thing as a bloodless war. Beyond the fortified walls protecting the eighty-five Republic territories lies the "nonexistent" Eighty-Sixth Sector. The young men and women of this forsaken land are branded the Eighty-Six and, stripped of their humanity, pilot the "unmanned" weapons into battle...",
+    "artist": "Motoki Yoshihara",
+    "author": "Asato Asato",
+    "cover": "https://drive.google.com/file/d/1IdPQM2LFk4QPNvT9tHvThHO849Y8lb5I/view?usp=sharing",
+    "chapters": {
+        "<chapter number>": {
+            "title": "<chapter name>",
+            "volume": "<volume number>",
+            "groups": {
+                "<group name>": []
+            },
+            "last_updated": "1616368746"
+        }
     }
-  }
 }
